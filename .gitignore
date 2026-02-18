@@ -1,0 +1,18 @@
+# Data files 
+data/raw/
+data/processed/*.parquet
+*.csv
+*.xlsx
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
