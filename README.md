@@ -72,7 +72,7 @@ The **Revenue Pockets (Region × Category)** matrix highlights the strongest com
 - `reports/Product&Market.png` — dashboard screenshot (Page 2)
 - `powerbi/` — Power BI dashboard file (`.pbix`) (if included in repo)
 - `notebooks/` — analysis notebooks (if included)
-- `data/` — exported analysis-ready CSVs (optional)
+- `data/` — exported analysis-ready CSVs 
 
 ---
 
